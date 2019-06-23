@@ -1,0 +1,7 @@
+#include-content {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #385663;
+    padding: 20px;
+    border: 5px solid red;
+}
